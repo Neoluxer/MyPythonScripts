@@ -190,3 +190,4 @@ if __name__ == "__main__":
     print (f'Led лента потолок второй этаж: {led_line_2_floor[0]} {led_line_2_floor[1]}\n')
     print(f'Led лента потолок первый этаж: {led_line_1_floor[0]} {led_line_1_floor[1]}\n')
     print(f'Led лента потолок 1,2 этажи: {led_line_1_floor[0]+led_line_2_floor[0]} {led_line_1_floor[1]}\n')
+    print ('Добавлено с другой ветки git в качестве теста')
