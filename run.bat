@@ -1,0 +1,1 @@
+python C:\Users\Professional\PycharmProjects\RenameFiles\FindVirus.py C:\Users\Professional\Documents\2021\Design_project_standart
